@@ -1,4 +1,4 @@
-# Cloud-region selection: practical prototype (v6)
+# Cloud-region selection: practical prototype (v1)
 
 Decision type: which cloud region should host a workload. Sector: business, for enterprise cloud and GreenOps/FinOps teams (see PROPOSAL_DRAFT.md).
 Question studied: does selective escalation keep decision quality close to an always-on multi-agent system at lower cost,
