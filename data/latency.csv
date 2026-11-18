@@ -1,0 +1,406 @@
+city,region,rtt_ms
+Singapore,africa-south1,91.6
+Singapore,asia-east1,36.0
+Singapore,asia-east2,30.9
+Singapore,asia-northeast1,58.1
+Singapore,asia-northeast2,54.5
+Singapore,asia-northeast3,51.7
+Singapore,asia-south1,44.0
+Singapore,asia-south2,46.4
+Singapore,asia-southeast1,5.0
+Singapore,asia-southeast2,14.1
+Singapore,asia-southeast3,19.3
+Singapore,australia-southeast1,68.1
+Singapore,australia-southeast2,65.6
+Singapore,europe-central2,99.0
+Singapore,europe-north1,96.5
+Singapore,europe-north2,101.4
+Singapore,europe-southwest1,118.8
+Singapore,europe-west1,111.0
+Singapore,europe-west2,113.5
+Singapore,europe-west3,107.6
+Singapore,europe-west4,108.5
+Singapore,europe-west6,107.9
+Singapore,europe-west8,107.6
+Singapore,europe-west9,112.3
+Singapore,europe-west10,104.2
+Singapore,europe-west12,108.8
+Singapore,me-central1,67.0
+Singapore,me-central2,68.7
+Singapore,me-west1,84.6
+Singapore,northamerica-northeast1,153.0
+Singapore,northamerica-northeast2,155.0
+Singapore,northamerica-south1,169.2
+Singapore,southamerica-east1,164.9
+Singapore,southamerica-west1,169.0
+Singapore,us-central1,153.8
+Singapore,us-central2,158.7
+Singapore,us-east1,166.5
+Singapore,us-east2,165.2
+Singapore,us-east4,160.2
+Singapore,us-east5,158.7
+Singapore,us-south1,161.5
+Singapore,us-west1,136.8
+Singapore,us-west2,146.2
+Singapore,us-west3,146.0
+Singapore,us-west4,147.2
+London,africa-south1,95.7
+London,asia-east1,103.2
+London,asia-east2,101.2
+London,asia-northeast1,100.6
+London,asia-northeast2,100.0
+London,asia-northeast3,93.6
+London,asia-south1,76.9
+London,asia-south2,72.1
+London,asia-southeast1,113.5
+London,asia-southeast2,122.2
+London,asia-southeast3,100.3
+London,australia-southeast1,174.9
+London,australia-southeast2,174.0
+London,europe-central2,19.5
+London,europe-north1,24.5
+London,europe-north2,19.3
+London,europe-southwest1,17.6
+London,europe-west1,8.0
+London,europe-west2,5.0
+London,europe-west3,11.4
+London,europe-west4,10.2
+London,europe-west6,12.8
+London,europe-west8,14.6
+London,europe-west9,8.4
+London,europe-west10,14.3
+London,europe-west12,14.2
+London,me-central1,57.1
+London,me-central2,55.2
+London,me-west1,40.6
+London,northamerica-northeast1,57.2
+London,northamerica-northeast2,62.1
+London,northamerica-south1,94.1
+London,southamerica-east1,100.0
+London,southamerica-west1,121.7
+London,us-central1,73.9
+London,us-central2,78.1
+London,us-east1,70.2
+London,us-east2,72.7
+London,us-east4,64.2
+London,us-east5,67.1
+London,us-south1,81.4
+London,us-west1,83.3
+London,us-west2,92.6
+London,us-west3,83.2
+London,us-west4,89.0
+Frankfurt,africa-south1,92.0
+Frankfurt,asia-east1,99.0
+Frankfurt,asia-east2,96.6
+Frankfurt,asia-northeast1,98.3
+Frankfurt,asia-northeast2,97.4
+Frankfurt,asia-northeast3,90.5
+Frankfurt,asia-south1,70.6
+Frankfurt,asia-south2,66.2
+Frankfurt,asia-southeast1,107.6
+Frankfurt,asia-southeast2,116.2
+Frankfurt,asia-southeast3,94.7
+Frankfurt,australia-southeast1,169.8
+Frankfurt,australia-southeast2,168.2
+Frankfurt,europe-central2,13.9
+Frankfurt,europe-north1,21.4
+Frankfurt,europe-north2,16.9
+Frankfurt,europe-southwest1,19.5
+Frankfurt,europe-west1,8.5
+Frankfurt,europe-west2,11.4
+Frankfurt,europe-west3,5.0
+Frankfurt,europe-west4,8.9
+Frankfurt,europe-west6,8.0
+Frankfurt,europe-west8,10.2
+Frankfurt,europe-west9,9.8
+Frankfurt,europe-west10,9.2
+Frankfurt,europe-west12,10.7
+Frankfurt,me-central1,50.8
+Frankfurt,me-central2,48.9
+Frankfurt,me-west1,34.4
+Frankfurt,northamerica-northeast1,63.4
+Frankfurt,northamerica-northeast2,68.3
+Frankfurt,northamerica-south1,100.4
+Frankfurt,southamerica-east1,103.3
+Frankfurt,southamerica-west1,126.1
+Frankfurt,us-central1,79.9
+Frankfurt,us-central2,84.2
+Frankfurt,us-east1,76.6
+Frankfurt,us-east2,79.0
+Frankfurt,us-east4,70.5
+Frankfurt,us-east5,73.3
+Frankfurt,us-south1,87.6
+Frankfurt,us-west1,88.3
+Frankfurt,us-west2,98.0
+Frankfurt,us-west3,88.7
+Frankfurt,us-west4,94.5
+New York,africa-south1,133.4
+New York,asia-east1,131.6
+New York,asia-east2,134.6
+New York,asia-northeast1,113.5
+New York,asia-northeast2,116.0
+New York,asia-northeast3,115.5
+New York,asia-south1,130.4
+New York,asia-south2,122.6
+New York,asia-southeast1,158.3
+New York,asia-southeast2,166.8
+New York,asia-southeast3,144.3
+New York,australia-southeast1,164.9
+New York,australia-southeast2,171.7
+New York,europe-central2,73.5
+New York,europe-north1,72.0
+New York,europe-north2,68.2
+New York,europe-southwest1,62.7
+New York,europe-west1,63.7
+New York,europe-west2,60.7
+New York,europe-west3,67.0
+New York,europe-west4,64.4
+New York,europe-west6,68.2
+New York,europe-west8,69.6
+New York,europe-west9,63.4
+New York,europe-west10,68.9
+New York,europe-west12,68.8
+New York,me-central1,112.7
+New York,me-central2,110.8
+New York,me-west1,96.1
+New York,northamerica-northeast1,10.3
+New York,northamerica-northeast2,10.5
+New York,northamerica-south1,38.5
+New York,southamerica-east1,81.9
+New York,southamerica-west1,87.5
+New York,us-central1,23.3
+New York,us-central2,24.7
+New York,us-east1,14.9
+New York,us-east2,17.0
+New York,us-east4,8.5
+New York,us-east5,12.7
+New York,us-south1,27.1
+New York,us-west1,43.1
+New York,us-west2,44.4
+New York,us-west3,36.7
+New York,us-west4,40.8
+Mumbai,africa-south1,74.8
+Mumbai,asia-east1,54.3
+Mumbai,asia-east2,48.0
+Mumbai,asia-northeast1,72.2
+Mumbai,asia-northeast2,68.5
+Mumbai,asia-northeast3,60.9
+Mumbai,asia-south1,5.0
+Mumbai,asia-south2,16.5
+Mumbai,asia-southeast1,44.0
+Mumbai,asia-southeast2,51.6
+Mumbai,asia-southeast3,35.0
+Mumbai,australia-southeast1,106.6
+Mumbai,australia-southeast2,103.2
+Mumbai,europe-central2,62.8
+Mumbai,europe-north1,63.3
+Mumbai,europe-north2,67.3
+Mumbai,europe-southwest1,80.3
+Mumbai,europe-west1,74.1
+Mumbai,europe-west2,76.9
+Mumbai,europe-west3,70.6
+Mumbai,europe-west4,72.4
+Mumbai,europe-west6,70.4
+Mumbai,europe-west8,69.7
+Mumbai,europe-west9,75.1
+Mumbai,europe-west10,67.9
+Mumbai,europe-west12,70.9
+Mumbai,me-central1,28.0
+Mumbai,me-central2,29.7
+Mumbai,me-west1,45.6
+Mumbai,northamerica-northeast1,125.8
+Mumbai,northamerica-northeast2,129.9
+Mumbai,northamerica-south1,160.4
+Mumbai,southamerica-east1,142.7
+Mumbai,southamerica-west1,165.7
+Mumbai,us-central1,137.1
+Mumbai,us-central2,142.6
+Mumbai,us-east1,140.3
+Mumbai,us-east2,141.7
+Mumbai,us-east4,133.5
+Mumbai,us-east5,134.9
+Mumbai,us-south1,146.5
+Mumbai,us-west1,131.8
+Mumbai,us-west2,144.9
+Mumbai,us-west3,138.4
+Mumbai,us-west4,143.1
+Tokyo,africa-south1,140.4
+Tokyo,asia-east1,27.5
+Tokyo,asia-east2,33.8
+Tokyo,asia-northeast1,5.0
+Tokyo,asia-northeast2,9.0
+Tokyo,asia-northeast3,16.5
+Tokyo,asia-south1,72.2
+Tokyo,asia-south2,63.4
+Tokyo,asia-southeast1,58.1
+Tokyo,asia-southeast2,62.8
+Tokyo,asia-southeast3,51.0
+Tokyo,australia-southeast1,83.3
+Tokyo,australia-southeast2,86.9
+Tokyo,europe-central2,90.8
+Tokyo,europe-north1,81.9
+Tokyo,europe-north2,86.7
+Tokyo,europe-southwest1,112.6
+Tokyo,europe-west1,100.1
+Tokyo,europe-west2,100.6
+Tokyo,europe-west3,98.3
+Tokyo,europe-west4,96.2
+Tokyo,europe-west6,100.8
+Tokyo,europe-west8,102.2
+Tokyo,europe-west9,102.1
+Tokyo,europe-west10,94.2
+Tokyo,europe-west12,103.2
+Tokyo,me-central1,87.5
+Tokyo,me-central2,88.0
+Tokyo,me-west1,96.6
+Tokyo,northamerica-northeast1,108.9
+Tokyo,northamerica-northeast2,108.5
+Tokyo,northamerica-south1,116.2
+Tokyo,southamerica-east1,190.4
+Tokyo,southamerica-west1,177.4
+Tokyo,us-central1,102.6
+Tokyo,us-central2,106.7
+Tokyo,us-east1,118.1
+Tokyo,us-east2,115.4
+Tokyo,us-east4,113.7
+Tokyo,us-east5,110.4
+Tokyo,us-south1,109.0
+Tokyo,us-west1,83.9
+Tokyo,us-west2,93.2
+Tokyo,us-west3,93.1
+Tokyo,us-west4,94.0
+Sydney,africa-south1,115.4
+Sydney,asia-east1,77.1
+Sydney,asia-east2,78.8
+Sydney,asia-northeast1,83.3
+Sydney,asia-northeast2,83.0
+Sydney,asia-northeast3,88.3
+Sydney,asia-south1,106.6
+Sydney,asia-south2,109.3
+Sydney,asia-southeast1,68.1
+Sydney,asia-southeast2,60.0
+Sydney,asia-southeast3,80.4
+Sydney,australia-southeast1,5.0
+Sydney,australia-southeast2,12.1
+Sydney,europe-central2,160.9
+Sydney,europe-north1,155.7
+Sydney,europe-north2,161.0
+Sydney,europe-southwest1,181.8
+Sydney,europe-west1,173.0
+Sydney,europe-west2,174.9
+Sydney,europe-west3,169.8
+Sydney,europe-west4,169.8
+Sydney,europe-west6,170.7
+Sydney,europe-west8,170.6
+Sydney,europe-west9,174.6
+Sydney,europe-west10,165.9
+Sydney,europe-west12,171.8
+Sydney,me-central1,128.8
+Sydney,me-central2,130.7
+Sydney,me-west1,146.8
+Sydney,northamerica-northeast1,165.3
+Sydney,northamerica-northeast2,160.7
+Sydney,northamerica-south1,134.2
+Sydney,southamerica-east1,138.6
+Sydney,southamerica-west1,118.5
+Sydney,us-central1,146.9
+Sydney,us-central2,145.2
+Sydney,us-east1,158.2
+Sydney,us-east2,154.4
+Sydney,us-east4,161.7
+Sydney,us-east5,157.2
+Sydney,us-south1,143.2
+Sydney,us-west1,129.5
+Sydney,us-west2,125.7
+Sydney,us-west3,134.1
+Sydney,us-west4,129.3
+Sao Paulo,africa-south1,79.3
+Sao Paulo,asia-east1,192.1
+Sao Paulo,asia-east2,185.5
+Sao Paulo,asia-northeast1,190.4
+Sao Paulo,asia-northeast2,192.6
+Sao Paulo,asia-northeast3,188.4
+Sao Paulo,asia-south1,142.7
+Sao Paulo,asia-south2,149.3
+Sao Paulo,asia-southeast1,164.9
+Sao Paulo,asia-southeast2,161.3
+Sao Paulo,asia-southeast3,169.0
+Sao Paulo,australia-southeast1,138.6
+Sao Paulo,australia-southeast2,135.9
+Sao Paulo,europe-central2,111.6
+Sao Paulo,europe-north1,119.4
+Sao Paulo,europe-north2,114.3
+Sao Paulo,europe-southwest1,88.8
+Sao Paulo,europe-west1,101.0
+Sao Paulo,europe-west2,100.0
+Sao Paulo,europe-west3,103.3
+Sao Paulo,europe-west4,104.8
+Sao Paulo,europe-west6,101.2
+Sao Paulo,europe-west8,100.2
+Sao Paulo,europe-west9,99.0
+Sao Paulo,europe-west10,107.5
+Sao Paulo,europe-west12,99.0
+Sao Paulo,me-central1,123.7
+Sao Paulo,me-central2,122.8
+Sao Paulo,me-west1,111.2
+Sao Paulo,northamerica-northeast1,86.5
+Sao Paulo,northamerica-northeast2,86.9
+Sao Paulo,northamerica-south1,81.1
+Sao Paulo,southamerica-east1,5.0
+Sao Paulo,southamerica-west1,30.9
+Sao Paulo,us-central1,93.1
+Sao Paulo,us-central2,89.2
+Sao Paulo,us-east1,77.3
+Sao Paulo,us-east2,80.2
+Sao Paulo,us-east4,81.6
+Sao Paulo,us-east5,85.0
+Sao Paulo,us-south1,87.2
+Sao Paulo,us-west1,112.4
+Sao Paulo,us-west2,104.1
+Sao Paulo,us-west3,103.2
+Sao Paulo,us-west4,102.8
+Toronto,africa-south1,138.4
+Toronto,asia-east1,127.2
+Toronto,asia-east2,130.5
+Toronto,asia-northeast1,108.5
+Toronto,asia-northeast2,111.2
+Toronto,asia-northeast3,111.0
+Toronto,asia-south1,129.9
+Toronto,asia-south2,121.3
+Toronto,asia-southeast1,155.0
+Toronto,asia-southeast2,163.1
+Toronto,asia-southeast3,141.3
+Toronto,australia-southeast1,160.7
+Toronto,australia-southeast2,167.7
+Toronto,europe-central2,74.2
+Toronto,europe-north1,71.7
+Toronto,europe-north2,68.3
+Toronto,europe-southwest1,65.4
+Toronto,europe-west1,65.1
+Toronto,europe-west2,62.1
+Toronto,europe-west3,68.3
+Toronto,europe-west4,65.4
+Toronto,europe-west6,69.8
+Toronto,europe-west8,71.4
+Toronto,europe-west9,65.0
+Toronto,europe-west10,69.8
+Toronto,europe-west12,70.6
+Toronto,me-central1,113.6
+Toronto,me-central2,111.8
+Toronto,me-west1,97.7
+Toronto,northamerica-northeast1,10.0
+Toronto,northamerica-northeast2,5.0
+Toronto,northamerica-south1,37.2
+Toronto,southamerica-east1,86.9
+Toronto,southamerica-west1,91.2
+Toronto,us-central1,18.8
+Toronto,us-central2,21.4
+Toronto,us-east1,16.6
+Toronto,us-east2,16.8
+Toronto,us-east4,10.4
+Toronto,us-east5,10.1
+Toronto,us-south1,24.4
+Toronto,us-west1,37.8
+Toronto,us-west2,39.9
+Toronto,us-west3,31.8
+Toronto,us-west4,36.3

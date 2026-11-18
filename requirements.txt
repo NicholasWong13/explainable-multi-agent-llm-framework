@@ -1,0 +1,18 @@
+# Runtime requirements for the cloud-region selection prototype.
+# The core pipeline (run_demo.py, run_real.py, stats.py, lara_assessment.py) uses only the
+# Python standard library.  Python 3.10 or later is required (uses the X | Y union type syntax).
+
+# Required for the Streamlit demo interface (app.py)
+streamlit>=1.35.0
+
+# Optional — energy measurement per rung (run_real.py --codecarbon)
+codecarbon>=3.3.2
+
+# Optional — Wilcoxon signed-rank test in stats.py
+scipy>=1.13.0
+
+# Optional — needed by the Streamlit comparison table
+pandas>=2.2.0
+
+# No other third-party packages are needed.
+# llm_real.py uses urllib (stdlib) to talk to Ollama or any OpenAI-compatible API.

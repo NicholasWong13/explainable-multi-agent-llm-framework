@@ -1,0 +1,46 @@
+region,location,country,lat,lon,cfe,grid_gco2_kwh
+africa-south1,Johannesburg,ZA,-26.2,28.05,0.15,641.42
+asia-east1,Taiwan,TW,24.05,120.52,0.15,427.95
+asia-east2,Hong Kong,HK,22.32,114.17,0.02,488.52
+asia-northeast1,Tokyo,JP,35.68,139.69,0.23,449.23
+asia-northeast2,Osaka,JP,34.69,135.5,0.45,298.92
+asia-northeast3,Seoul,KR,37.57,126.98,0.37,359.05
+asia-south1,Mumbai,IN,19.08,72.88,0.2,598.45
+asia-south2,Delhi,IN,28.61,77.21,0.39,472.55
+asia-southeast1,Singapore,SG,1.35,103.82,0.05,365.66
+asia-southeast2,Jakarta,ID,-6.21,106.85,0.15,587.8
+asia-southeast3,Bangkok,TH,13.76,100.5,0.19,364.68
+australia-southeast1,Sydney,AU,-33.87,151.21,0.37,468.34
+australia-southeast2,Melbourne,AU,-37.81,144.96,0.44,415.89
+europe-central2,Warsaw,PL,52.23,21.01,0.81,498.57
+europe-north1,Finland,FI,60.57,27.2,0.98,29.84
+europe-north2,Stockholm,SE,59.33,18.07,1,19.39
+europe-southwest1,Madrid,ES,40.42,-3.7,0.87,95.75
+europe-west1,Belgium,BE,50.47,3.82,0.79,126.43
+europe-west2,London,GB,51.51,-0.13,0.75,109.39
+europe-west3,Frankfurt,DE,50.11,8.68,0.7,275.81
+europe-west4,Eemshaven,NL,53.44,6.83,0.82,194.35
+europe-west6,Zürich,CH,47.38,8.54,0.97,21.2
+europe-west8,Milan,IT,45.46,9.19,0.79,202.03
+europe-west9,Paris,FR,48.86,2.35,0.96,15.83
+europe-west10,Berlin,DE,52.52,13.4,0.7,275.81
+europe-west12,Turin,IT,45.07,7.69,0.79,202.03
+me-central1,Doha,QA,25.29,51.53,0,370
+me-central2,Dammam,SA,26.43,50.1,0.01,381.29
+me-west1,Tel Aviv,IL,32.09,34.78,0.13,380.95
+northamerica-northeast1,Montréal,CA,45.5,-73.57,0.97,11.36
+northamerica-northeast2,Toronto,CA,43.65,-79.38,0.8,74.2
+northamerica-south1,Mexico,MX,20.59,-100.39,0.25,293.25
+southamerica-east1,Sāo Paulo,BR,-23.55,-46.63,0.87,73.25
+southamerica-west1,Santiago,CL,-33.45,-70.67,0.9,209.94
+us-central1,Iowa,US,41.26,-95.86,0.88,431.95
+us-central2,Oklahoma,US,36.15,-95.99,0.84,417.39
+us-east1,South Carolina,US,33.2,-80.01,0.31,579.44
+us-east2,Georgia,US,33.75,-84.39,0.42,391.2
+us-east4,Northern Virginia,US,39.04,-77.49,0.57,343.48
+us-east5,Columbus,US,39.96,-82.99,0.57,343.48
+us-south1,Dallas,US,32.78,-96.8,0.83,299.13
+us-west1,Oregon,US,45.6,-121.18,0.83,97.85
+us-west2,Los Angeles,US,34.05,-118.24,0.66,149.91
+us-west3,Salt Lake City,US,40.76,-111.89,0.36,567.51
+us-west4,Las Vegas,US,36.17,-115.14,0.65,360
