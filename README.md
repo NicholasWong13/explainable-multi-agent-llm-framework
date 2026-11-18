@@ -5,9 +5,6 @@ Question studied: does selective escalation keep decision quality close to an al
 and does it keep explanations faithful to the source data?
 
 ## Dual-process architecture (Jev + LARA)
-Background: the article Dr. Zeyad shared (Skeptical AI, "LLM vs JEV: The Dual-Process AI Stack", Medium,
-21 Sep 2026). System 1 is a non-autoregressive typed model (TypeSafe AI's **Jev**) that cannot explain itself; System 2
-is a generative LLM. Only R6 follows this pattern. In R1–R5 the fast path is an LLM that writes its own explanation.
 - `jev_router.py`: rung R6, following the article's production pattern: rule engine (hard constraints in code) ->
   System 1 typed choice (region ID + confidence, no text) -> gate (p < 0.65 escalates) -> System 2 (R2) ->
   separate explanation agent -> egress check (F1, F2-choice, C1, C2; failure sets `flagged` for human review).
@@ -75,12 +72,3 @@ python stats.py results_real.jsonl
 ```
 Router (R4): `run_real.py --rungs R1 --start 0 --n 60 --out results_train.jsonl`, then `python train_router.py results_train.jsonl`,
 then `run_real.py --rungs R1,R2,R3,R4,R5,R6 --start 60 --n 40 --router router.json`. R6 alone needs no router.
-
-## Still to do before the paper
-1. Collect prices and measured latency (see table).
-2. Re-run the pilot with the current code, then run at least two or three stronger models, repeated runs, all scenarios.
-3. Add free-text versions of the requests, so the LLM has to read real input, not only templated text.
-4. Human annotation of about 100 to 150 explanations by two annotators; check whether ethics approval is needed.
-5. Tune the escalation thresholds on a held-out split; report ablations (including `--r6-no-prefilter`).
-6. Have a second rater score LARA independently.
-7. If Jev access is obtained, implement `RealJev.choice()` and compare calibration against the stand-in.
